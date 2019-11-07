@@ -132,6 +132,7 @@
             this.读取数据ToolStripMenuItem.Name = "读取数据ToolStripMenuItem";
             this.读取数据ToolStripMenuItem.Size = new System.Drawing.Size(68, 21);
             this.读取数据ToolStripMenuItem.Text = "读取数据";
+            this.读取数据ToolStripMenuItem.Click += new System.EventHandler(this.读取数据ToolStripMenuItem_Click);
             // 
             // axLicenseControl1
             // 
